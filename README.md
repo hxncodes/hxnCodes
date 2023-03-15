@@ -6,7 +6,7 @@ React and React Native Developer
 
 React developer with experience in building web applications. Proficient in React, JavaScript, TypeScript, HTML, and CSS. React Native developer having experience building cross-platform mobile applications. Passionate about creating high-quality, user-friendly applications that provide a seamless user experience.
 
-* 🌍  I'm based in Jauharabad, Pakistan
+* 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [hxncodes@gmail.com](mailto:hxncodes@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on React Projects with TypeScript
