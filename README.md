@@ -11,6 +11,8 @@ React developer with experience in building web applications. Proficient in Reac
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on React Projects with TypeScript
 
+[![wakatime](https://wakatime.com/badge/user/f16aa2a0-4fcd-4d1b-aad1-a76eb638ecd6.svg)](https://wakatime.com/@f16aa2a0-4fcd-4d1b-aad1-a76eb638ecd6)
+
 <a href="https://www.github.com/hxncodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hxncodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
