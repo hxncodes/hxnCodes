@@ -1,10 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hasnat Ahmad
 ====================================================================================================================================
 
-React and React Native Developer
---------------------------------
+Fullstack Developer | MERN Stack & Next.js | React & React Native
+------------------------------------------------------------------
 
-React developer with experience in building web applications. Proficient in React, JavaScript, TypeScript, HTML, and CSS. React Native developer having experience building cross-platform mobile applications. Passionate about creating high-quality, user-friendly applications that provide a seamless user experience.
+Passionate Fullstack Developer specializing in the MERN Stack (MongoDB, Express.js, React, Node.js) and Next.js. I build fast, scalable, and user-friendly web and mobile applications with a focus on clean architecture and modern design.
+
+💻 Frontend: React, Next.js, React Native
+🌐 Backend: Node.js, Express.js, MongoDB
+🎨 Styling: TailwindCSS, ShadCN UI
+📱 Mobile: React Native (cross-platform development)
+🛠️ Other Skills: TypeScript, JavaScript, HTML, CSS
+
+
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [hxncodes@gmail.com](mailto:hxncodes@gmail.com)
